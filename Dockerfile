@@ -1,2 +1,2 @@
 FROM nginx
-COPY app /usr/share/nginx/html/app1
+COPY app /usr/share/nginx/html/app
